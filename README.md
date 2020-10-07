@@ -1,1 +1,1 @@
-all the important c++ from beggining to intermediate
+all the important c++ from beginning to intermediate
